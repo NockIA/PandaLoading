@@ -1,2 +1,3 @@
 # PandaLoading
-Panda Loading
+
+Création d'une animation simple de chargement
